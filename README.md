@@ -8,9 +8,9 @@ ewaller @ https://bbs.archlinux.org/viewtopic.php?id=197863
 Installation & allowing access to all users.
 ----
 ```
-$user: gcc backlight.c
+$user: gcc keylight.c
 $user: su 
-$root: mv a.out /usr/share/bin/backlight.c
+$root: mv a.out /usr/share/bin/keylight.c
 $root: cmod +s !$
 $root: exit
 ``` 
