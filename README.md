@@ -11,7 +11,7 @@ Installation & allowing access to all users.
 ```
 $user: gcc keylight.c
 $user: su 
-$root: mv a.out /usr/share/bin/keylight.c
+$root: mv a.out /usr/share/bin/keylight
 $root: chmod +s !$
 $root: exit
 ``` 
